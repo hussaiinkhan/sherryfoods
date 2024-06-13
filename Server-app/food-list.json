@@ -1,0 +1,213 @@
+[
+    {
+      "category": "Italian",
+      "name": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta with a creamy egg and cheese sauce.",
+      "price": 12.99,
+      "image": "https://example.com/images/spaghetti_carbonara.jpg"
+    },
+    {
+      "category": "Italian",
+      "name": "Margherita Pizza",
+      "description": "Traditional pizza with tomato, mozzarella, and basil.",
+      "price": 9.99,
+      "image": "https://example.com/images/margherita_pizza.jpg"
+    },
+    {
+      "category": "Italian",
+      "name": "Lasagna",
+      "description": "Layers of pasta with bolognese sauce, bechamel, and cheese.",
+      "price": 14.99,
+      "image": "https://example.com/images/lasagna.jpg"
+    },
+    {
+      "category": "Italian",
+      "name": "Pesto Pasta",
+      "description": "Pasta with fresh basil pesto sauce.",
+      "price": 11.99,
+      "image": "https://example.com/images/pesto_pasta.jpg"
+    },
+    {
+      "category": "Italian",
+      "name": "Fettuccine Alfredo",
+      "description": "Pasta with a rich Alfredo sauce.",
+      "price": 13.49,
+      "image": "https://example.com/images/fettuccine_alfredo.jpg"
+    },
+    {
+      "category": "Italian",
+      "name": "Caprese Salad",
+      "description": "Tomato, mozzarella, and basil salad.",
+      "price": 8.99,
+      "image": "https://example.com/images/caprese_salad.jpg"
+    },
+    {
+      "category": "Chinese",
+      "name": "Kung Pao Chicken",
+      "description": "Spicy stir-fried chicken with peanuts and vegetables.",
+      "price": 13.99,
+      "image": "https://example.com/images/kung_pao_chicken.jpg"
+    },
+    {
+      "category": "Chinese",
+      "name": "Sweet and Sour Pork",
+      "description": "Pork with sweet and sour sauce.",
+      "price": 12.99,
+      "image": "https://example.com/images/sweet_sour_pork.jpg"
+    },
+    {
+      "category": "Chinese",
+      "name": "Fried Rice",
+      "description": "Rice stir-fried with vegetables and eggs.",
+      "price": 8.99,
+      "image": "https://example.com/images/fried_rice.jpg"
+    },
+    {
+      "category": "Chinese",
+      "name": "General Tso's Chicken",
+      "description": "Deep-fried chicken with spicy sauce.",
+      "price": 11.99,
+      "image": "https://example.com/images/general_tso_chicken.jpg"
+    },
+    {
+      "category": "Chinese",
+      "name": "Spring Rolls",
+      "description": "Crispy rolls with vegetable filling.",
+      "price": 5.99,
+      "image": "https://example.com/images/spring_rolls.jpg"
+    },
+    {
+      "category": "Chinese",
+      "name": "Dumplings",
+      "description": "Steamed or fried dumplings with meat or vegetable filling.",
+      "price": 9.99,
+      "image": "https://example.com/images/dumplings.jpg"
+    },
+    {
+      "category": "Indian",
+      "name": "Butter Chicken",
+      "description": "Chicken cooked in a rich butter and tomato sauce.",
+      "price": 14.99,
+      "image": "https://example.com/images/butter_chicken.jpg"
+    },
+    {
+      "category": "Indian",
+      "name": "Biryani",
+      "description": "Spiced rice with meat or vegetables.",
+      "price": 12.99,
+      "image": "https://example.com/images/biryani.jpg"
+    },
+    {
+      "category": "Indian",
+      "name": "Palak Paneer",
+      "description": "Spinach with cottage cheese cubes.",
+      "price": 10.99,
+      "image": "https://example.com/images/palak_paneer.jpg"
+    },
+    {
+      "category": "Indian",
+      "name": "Chole Bhature",
+      "description": "Spiced chickpeas with deep-fried bread.",
+      "price": 8.99,
+      "image": "https://example.com/images/chole_bhature.jpg"
+    },
+    {
+      "category": "Indian",
+      "name": "Samosas",
+      "description": "Fried pastries with savory filling.",
+      "price": 5.99,
+      "image": "https://example.com/images/samosas.jpg"
+    },
+    {
+      "category": "Indian",
+      "name": "Tandoori Chicken",
+      "description": "Chicken marinated in yogurt and spices, cooked in a tandoor.",
+      "price": 13.99,
+      "image": "https://example.com/images/tandoori_chicken.jpg"
+    },
+    {
+      "category": "Mexican",
+      "name": "Tacos",
+      "description": "Soft or crispy tortillas with various fillings.",
+      "price": 9.99,
+      "image": "https://example.com/images/tacos.jpg"
+    },
+    {
+      "category": "Mexican",
+      "name": "Burritos",
+      "description": "Large tortillas filled with rice, beans, and meat.",
+      "price": 11.99,
+      "image": "https://example.com/images/burritos.jpg"
+    },
+    {
+      "category": "Mexican",
+      "name": "Quesadillas",
+      "description": "Tortillas filled with cheese and grilled.",
+      "price": 8.99,
+      "image": "https://example.com/images/quesadillas.jpg"
+    },
+    {
+      "category": "Mexican",
+      "name": "Guacamole",
+      "description": "Avocado dip with onions, tomatoes, and lime.",
+      "price": 6.99,
+      "image": "https://example.com/images/guacamole.jpg"
+    },
+    {
+      "category": "Mexican",
+      "name": "Churros",
+      "description": "Fried dough pastries with cinnamon sugar.",
+      "price": 4.99,
+      "image": "https://example.com/images/churros.jpg"
+    },
+    {
+      "category": "Mexican",
+      "name": "Enchiladas",
+      "description": "Tortillas rolled with filling and covered in sauce.",
+      "price": 10.99,
+      "image": "https://example.com/images/enchiladas.jpg"
+    },
+    {
+      "category": "American",
+      "name": "Cheeseburger",
+      "description": "Beef patty with cheese, lettuce, and tomato in a bun.",
+      "price": 8.99,
+      "image": "https://example.com/images/cheeseburger.jpg"
+    },
+    {
+      "category": "American",
+      "name": "Fried Chicken",
+      "description": "Crispy fried chicken pieces.",
+      "price": 12.99,
+      "image": "https://example.com/images/fried_chicken.jpg"
+    },
+    {
+      "category": "American",
+      "name": "Hot Dogs",
+      "description": "Sausage in a bun with various toppings.",
+      "price": 5.99,
+      "image": "https://example.com/images/hot_dogs.jpg"
+    },
+    {
+      "category": "American",
+      "name": "Apple Pie",
+      "description": "Classic dessert with apples and cinnamon.",
+      "price": 4.99,
+      "image": "https://example.com/images/apple_pie.jpg"
+    },
+    {
+      "category": "American",
+      "name": "BBQ Ribs",
+      "description": "Ribs slow-cooked with barbecue sauce.",
+      "price": 15.99,
+      "image": "https://example.com/images/bbq_ribs.jpg"
+    },
+    {
+      "category": "American",
+      "name": "Mac and Cheese",
+      "description": "Pasta with a creamy cheese sauce.",
+      "price": 7.99,
+      "image": "https://example.com/images/mac_and_cheese.jpg"
+    }
+  ]
+  
